@@ -5,7 +5,7 @@
 - 💻 Building Android apps with **Kotlin, MVVM, Firebase, Retrofit**  
 - 📚 Currently learning **DSA in Java** and diving into **full-stack development**  
 - 🌱 Working on projects like:
-  - **DailyAyah** → A Quranic verse widget app  
+  - **OLERS** → A smartphone-based offline mesh communication system that enables location tracking and SOS relaying during disasters.
 - 🎯 Goal: Become a **Full-Stack Developer** and build impactful solutions  
 - 🤝 Open to collaborating on **open-source projects**  
 
