@@ -41,12 +41,21 @@
 
 ---
 
-###  GitHub Activity
+### 📊 GitHub Activity
 
-![Maksud's GitHub stats](https://github-readme-stats.vercel.app/api?username=iRahmanG&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iRahmanG&layout=compact&theme=tokyonight)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iRahmanG&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRahmanG&layout=compact&theme=tokyonight" />
+</p>
 
-**Contribution Snake:** ![Snake animation](https://github-user-contribution-chart.vercel.app/api?user=iRahmanG&theme=tokyonight)
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=iRahmanG&theme=tokyonight" />
+</p>
+
+**🐍 Contribution Snake:**
+<p align="center">
+  <img src="https://github-user-contribution-chart.vercel.app/api?user=iRahmanG&theme=tokyonight" alt="Snake animation" />
+</p>
 
 ---
 
