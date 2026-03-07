@@ -7,7 +7,7 @@
 ###  About Me
 - **B.Tech Student** specializing in Backend Development & Scalable Systems.
 - **Transitioning** from Android (Kotlin) to mastering **Spring Boot & Microservices**.
-- **Full-Stack Enthusiast** building applications with the Spring Ecosystem & MERN Stack.
+- **Full-Stack Enthusiast** building applications with the Spring Ecosystem.
 - **Learning Path:** Currently diving into System Design, AWS Cloud, and Advanced Database Management.
 - **Goal:** Building high-performance, distributed systems that solve real-world problems.
 
