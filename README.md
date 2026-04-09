@@ -8,11 +8,11 @@
 
 ###  About Me
 -  B.Tech Student specializing in Backend Development & Scalable Systems  
--  Transitioning from Android (Kotlin) → Spring Boot & Microservices  
--  Full-Stack Enthusiast (Spring Ecosystem)  
--  Currently learning: System Design, AWS, Advanced Databases  
--  Goal: Build high-performance distributed systems  
-
+-  Currently focused on Spring Boot & Microservices  
+-  Passionate about Android Development (Kotlin)  
+-  Full-Stack Enthusiast  
+-  Exploring System Design, AWS Cloud & Advanced Databases  
+-  Goal: Build scalable, high-performance distributed systems  
 ---
 
 ###  Featured Projects
