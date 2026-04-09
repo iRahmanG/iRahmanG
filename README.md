@@ -63,13 +63,6 @@
 
 ---
 
-#  Contribution Snake (Animated)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iRahmanG/iRahmanG/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
 
 #  Connect With Me  
 
