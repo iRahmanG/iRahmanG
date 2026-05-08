@@ -8,8 +8,7 @@
 
 ###  About Me
 -  B.Tech Student specializing in Backend Development & Scalable Systems  
--  Currently focused on Spring Boot & Microservices  
--  Passionate about Android Development (Kotlin)  
+-  Currently focused on Spring Boot & Microservices    
 -  Full-Stack Enthusiast  
 -  Exploring System Design, AWS Cloud & Advanced Databases  
 -  Goal: Build scalable, high-performance distributed systems  
@@ -45,7 +44,7 @@
 #  GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iRahmanG&show_icons=true&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api?username=iRahmanG&show_icons=true&theme=tokyonight&cache_seconds=1800" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRahmanG&layout=compact&theme=tokyonight" />
 </p>
 
