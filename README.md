@@ -76,23 +76,22 @@
 
 ## GitHub Analytics
 
-<p align="center">
-
+<p>
   <img
-    width="54%"
     src="https://github-readme-stats-salesp07.vercel.app/api?username=iRahmanG&show_icons=true&theme=tokyonight&hide_border=true"
+    width="56%"
+    height="195px"
   />
-
   <img
-    width="41%"
     src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=iRahmanG&layout=compact&theme=tokyonight&hide_border=true"
+    width="32%"
+    height="195px"
   />
-
 </p>
 
 <p align="center">
 
-  <img width="95%" src="https://streak-stats.demolab.com?user=iRahmanG&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="95%" src="https://streak-stats.demolab.com?user=iRahmanG&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
