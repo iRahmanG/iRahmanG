@@ -69,10 +69,7 @@
 
 <p align="center">
 
-  <img
-    width="95%"
-    src="https://streak-stats.demolab.com?user=iRahmanG&theme=tokyonight&hide_border=true"
-  />
+  <img width="95%" src="https://streak-stats.demolab.com?user=iRahmanG&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </p>
 
