@@ -49,6 +49,29 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
+## Coding Platforms
+<p>
+  <a href="https://leetcode.com/u/iMaksud/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  <a href="https://www.codechef.com/users/i_maksud">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+## Certifications
+<p align="center">
+  <a href="https://www.credly.com/badges/e720c1d4-4948-4e84-9fab-34031df33dba/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" alt="AWS Solutions Architect Associate"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/1b174a5b-3aaf-4ec6-8853-1c8f37e3bb0a/public_url" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Cloud Practitioner"/>
+  </a>
+</p>
+
+
 ---
 
 ## GitHub Analytics
