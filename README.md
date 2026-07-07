@@ -10,7 +10,6 @@
 
 - B.Tech Student specializing in Backend Development & Scalable Systems
 - Currently focused on Spring Boot & Microservices
-- Full-Stack Enthusiast
 - Exploring System Design, AWS Cloud & Advanced Databases
 - Goal: Build scalable, high-performance distributed systems
 
